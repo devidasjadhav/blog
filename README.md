@@ -1,3 +1,6 @@
-## Welcome to GitHub Pages
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-You can use the [editor on GitHub](https://github.com/devidasjadhav/blog/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
+layout: home
+---
