@@ -23,7 +23,7 @@ github_username:  devidasjadhav
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: gesko
 plugins:
   - jekyll-feed
 
